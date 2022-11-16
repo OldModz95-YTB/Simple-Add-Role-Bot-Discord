@@ -1,0 +1,9 @@
+{
+    "token": "TOKEN DE VOTRE BOT",
+    "guildID": "ID DU SERVEUR",
+
+    "WhiteList": [
+        "902278011691368458",
+        "ID DES PERSONNES POUVANT UTILISER LA COMMANDE"
+    ]
+}
